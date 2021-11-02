@@ -1,5 +1,5 @@
 {
-    "date": "October 1, 2021",
-    "version": "1.1.0",
-    "changelog": ""
+    "date": "November 2nd, 2021",
+    "version": "1.1.5",
+    "changelog": "Fixed Nil Input's, Added Godmode Detection, Polished The Config And Some Detections"
 }
